@@ -9,7 +9,7 @@ const Home = () => {
             <br className="max-md:hidden" />
             <span className="orange_gradient text-center"> AI-Powerd Promts</span>
         </h1>
-        <p className="des text-center">
+        <p className="desc text-center">
             Promtopia is an open-source AI prompting tools for 
             modern world to discover, create and share create prompts
         </p>
